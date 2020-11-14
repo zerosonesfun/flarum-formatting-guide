@@ -278,13 +278,13 @@ The following BBCodes are available.
 `[code]<html><?php echo "ok"; ?></html>[/code]` Example: [code]<html><?php echo "ok"; ?></html>[/code]
 `[quote]You may quote me on this.[/quote]` Example: [quote]You may quote me on this.[/quote]
 `[list]
-Item one
-Item two
+[*]item 1[/*]
+[*]item 2[/*]
 [/list]`
 Example: 
 [list]
-Item one
-Item two
+[*]item 1[/*]
+[*]item 2[/*]
 [/list]
 `[del]delete/strike[/del]` Example: [del]delete/strike[/del] (`[s][/s]` works too)
 `[color=red]red[/color]` Example: [color=red]red[/color]
