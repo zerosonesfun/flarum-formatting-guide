@@ -275,21 +275,27 @@ The following BBCodes are available.
 `[s]strike[/s]` Example: [s]strike[/s]
 `[url=#]link[/url]` Example: [url=#]link[/url]
 `[email]email@invalidmail.com[/email]` Example: [email]email@invalidemail.com[/email]
-`[code]<html><?php echo "ok"; ?></html>[/code]` Example: [code]<html><?php echo "ok"; ?></html>[/code]
-`[quote]You may quote me on this.[/quote]` Example: [quote]You may quote me on this.[/quote]
+`[code]<html><?php echo "ok"; ?></html>[/code]`
+Example: [code]<html><?php echo "ok"; ?></html>[/code]
+`[quote]You may quote me on this.[/quote]`
+Example: [quote]You may quote me on this.[/quote]
+
 `[list]
 [*]item 1[/*]
 [*]item 2[/*]
 [/list]`
+
 Example: 
 [list]
 [*]item 1[/*]
 [*]item 2[/*]
 [/list]
+
 `[del]delete/strike[/del]` Example: [del]delete/strike[/del] (`[s][/s]` works too)
 `[color=red]red[/color]` Example: [color=red]red[/color]
 `[center]center[/center]` Example: [center]center[/center]
 `[size=20]size[/size]` Example: [size=20]size[/size]
+
 `[img]http://example.org/img.png[/img]` Example:
 
 [img]https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Malus_domestica_a1.jpg/1200px-Malus_domestica_a1.jpg[/img]
