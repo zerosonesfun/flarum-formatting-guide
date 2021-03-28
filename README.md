@@ -1,4 +1,4 @@
-Use Markdown or BBcode to add formatting. The toolbar will help you add common Markdown which involves adding certain special characters in front of or around your text, such as: `**bold**`, `*italics*`, `~~strike~~`, `>!spoiler!<`, `[link text](url)`, and `![alt text](image url)`.
+Use Markdown or BBcode to add formatting. The toolbar will help you add common Markdown which involves adding certain special characters in front of or around your text, such as: `**bold**`, `_italics_`, `~~strike~~`, `>!spoiler!<`, `[link text](url)`, and `![alt text](image url)`.
 
 BBcode is a common bracket style code that wraps your text, such as: `[b]bold[/b]`, `[i]italics[/i]`, `[s]strike[/s]`, `[url=]link text[/url]`, and `[img]url[/img]`.
 
